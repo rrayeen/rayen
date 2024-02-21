@@ -1,2 +1,2 @@
 # Rayen
-XD
+print("hello world")
